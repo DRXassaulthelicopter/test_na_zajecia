@@ -1,0 +1,17 @@
+{
+    "name": "blog o drzewach",
+    "short_name": "forestAPP",
+    "theme_color": "#2196f3",
+    "background_color": "#2196f3",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/test_na_zajecia/",
+    "icons" : [
+        {
+        "src": "./6909ba2cc67285f1008ca0656aa68556.gif",
+        "sizes": "512x512",
+        "types":"image.gif"
+        }
+
+    ]
+  }
